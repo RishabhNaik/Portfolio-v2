@@ -1,0 +1,16 @@
+/* styles/header.module.css */
+
+/* Styling for the header */
+.header {
+    /* background-color: #333; */
+    /* background-image: url('../public/header_background.png'); */
+    background: url('../public/header_background.png');
+    /* background-position: center; */
+    background-position-y:20%;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    min-height: 100px;
+    padding: 3% 2%;
+  }
+  

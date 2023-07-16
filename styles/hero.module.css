@@ -1,0 +1,16 @@
+/* hero.module.css */
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.leftContent,
+.rightContent {
+  display:block;
+  background-color: #f2f2f2;
+  padding: 20px;
+  margin: 10px 60px;
+}
+
